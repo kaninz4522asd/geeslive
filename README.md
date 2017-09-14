@@ -1,2 +1,0 @@
-# geeslive
-Test for GeeSLive
